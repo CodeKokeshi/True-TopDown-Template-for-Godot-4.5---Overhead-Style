@@ -6,6 +6,11 @@ A top-down stealth shooter with dynamic environment mechanics.
 
 **The Hunted** is a 2D top-down stealth game where players must navigate through an ever-changing environment while avoiding detection. The game features a unique "shifting walls" mechanic that keeps players on their toes as the environment subtly rearranges itself around them.
 
+## Demo Video
+
+https://github.com/user-attachments/assets/061024c9-2d87-4717-95e1-a82b090bc719
+
+
 ## Core Mechanics
 
 ### 🏗️ Shifting Walls System
